@@ -11,18 +11,18 @@ dept_emp: records of employee assignments to departments
 dept_manager: records of managers within departments.
 This dataset can be used for various HR and workforce-related analyses.
 
-Initially data has been cleaned and preprocessed to ensure consistency and accuracy.
+Initially, data has been cleaned and preprocessed to ensure consistency and accuracy.
 
 ANALYSIS HIGHLIGHTS:
-Gender distribution across departments.
-Salaries disparities between male and female
-Age distribution at various hierarchy level
-Employee Tenure Analysis
-Employment status of employees
-Top earners
-Department Transfer Analysis
-Employee Turnover Rate
-Average salary growth per year analysis
+Gender distribution across departments,
+Salaries disparities between male and female,
+Age distribution at various hierarchy levels,
+Employee Tenure Analysis,
+Employment status of employees,
+Top earners,
+Department Transfer Analysis,
+Employee Turnover Rate,
+Average salary growth per year analysis.
 
 
 
